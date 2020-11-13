@@ -1,0 +1,38 @@
+body{
+    background-color: brown;
+}
+
+h6:hover {
+    cursor: pointer;
+    color: white;
+}
+
+#h{
+    text-align: center;
+}
+
+#div{
+    border-style: solid;
+    background-color: darkgrey;
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    display: table;
+}
+
+#div1{
+    border-style: dashed;
+    background-color: lightgreen;
+    margin: auto;
+    width: 400px;
+    padding: 20px;
+    display: table;
+}
+
+#div2{
+    border-style: solid;
+    background-color: lightseagreen;
+    margin: auto;
+    width: 800px;
+    padding: 20px;
+}
